@@ -9,11 +9,12 @@ This project implements a simple search engine that indexes web pages and allows
 - **Indexing**: The search engine builds an index from the content of the web pages, allowing quick lookups.
 - **Query Support**: Supports single keywords, combined queries, and negations (e.g., `fish -red`).
 
-## Getting Started
-### Prerequisites
+## Prerequisites
 - C++ compiler (e.g., g++, MSVC)
 - VSCode or any compatible IDE
 - Ensure that the text files (Ex: `tiny.txt`) are present in the working directory.
 
-### Testing
+## Testing
 You can uncomment the testing line in the `main()` function to execute built-in tests for various functionalities. Ensure the test files (Ex: `tiny.txt`) are available in the working directory.
+
+### Happy Searching!
